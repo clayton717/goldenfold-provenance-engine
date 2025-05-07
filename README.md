@@ -40,8 +40,3 @@ Contact fractalprojectresearch@outlook.com for licensing or commercial use.
 
 ---
 
-## Quick Links
-
-- [Official Whitepaper](#) *(upload and link your PDF here)*
-- [Detection Suite Code](#) *(link to your main code file)*
-- [Patent Filing Details](#) *(optional: upload and link your provisional patent PDF)*
